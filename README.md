@@ -18,3 +18,9 @@ If you are developing a production application, we recommend using TypeScript an
 
 <p>Fundamental Analysis – Evaluates a company's financial health, earnings, assets, and macroeconomic factors to determine its intrinsic value.</p>
 <p>Technical Analysis – Uses historical price and volume data to identify patterns and trends that help predict future price movements.</p>
+
+![image alt](https://github.com/stock-prediction/stock-price-prediction-frontend/blob/d1b05d6a6ca4cf6cd4f5685add2cbc63fbd3dcac/Screenshot%202025-03-21%20003707.png)
+
+<p>With advancements in technology, machine learning (ML) and deep learning (DL) techniques, such as Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Linear Regression, have significantly improved prediction accuracy. These models analyze large datasets, detect complex patterns, and provide better forecasting insights</p>
+
+
