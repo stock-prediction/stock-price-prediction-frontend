@@ -23,4 +23,6 @@ If you are developing a production application, we recommend using TypeScript an
 
 <p>With advancements in technology, machine learning (ML) and deep learning (DL) techniques, such as Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Linear Regression, have significantly improved prediction accuracy. These models analyze large datasets, detect complex patterns, and provide better forecasting insights</p>
 
+![image alt](https://github.com/stock-prediction/stock-price-prediction-frontend/blob/b4bf14a0c772ac7f1be5362d55b7669ceb622c9a/Screenshot%202025-03-21%20132907.png)
+
 
