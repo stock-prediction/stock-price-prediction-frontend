@@ -25,4 +25,7 @@ If you are developing a production application, we recommend using TypeScript an
 
 ![image alt](https://github.com/stock-prediction/stock-price-prediction-frontend/blob/b4bf14a0c772ac7f1be5362d55b7669ceb622c9a/Screenshot%202025-03-21%20132907.png)
 
+Stock price prediction project
+
+
 
